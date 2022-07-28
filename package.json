@@ -1,5 +1,5 @@
 {
-  "name": "card-app-vue",
+  "name": "vue-card-application",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
